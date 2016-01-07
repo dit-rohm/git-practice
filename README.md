@@ -1,4 +1,4 @@
-# タイトル
+# DIT de Git勉強会
 
 ## 初期設定
 
@@ -11,7 +11,7 @@
 git config --global user.name "Your Name"
 git config --global user.email foo@example.com
 ```
-tを使う場合、プロキシ設定が必要です。以下のコマンドを打ちましょう。
+ローム記念館でgitを使う場合、プロキシ設定が必要です。以下のコマンドを打ちましょう。
 
 ```
 export http_proxy=proxyr.drm.doshisha.ac.jp:8080
@@ -153,3 +153,6 @@ git pull origin master
 8. git pull
 
 2から8を繰り返す。 
+
+# アンケートのお願い
+[こちら](https://docs.google.com/forms/d/1w5rlfJN2L6XybvRDjSoazWLXRSKfrQsFLb0CMy93RIE/viewform?usp=send_form)より、アンケートにご協力お願いします。
