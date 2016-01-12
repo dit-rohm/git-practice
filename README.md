@@ -49,7 +49,7 @@ git checkout tanaka
 `git branch`で移動できているか確認してください。
 
 
-参考：[Github-flowを分かりやすく図解してみた](pyar.bz http://b.pyar.bz/blog/2014/01/22/github-flow/)
+参考：[Github-flowを分かりやすく図解してみた](http://b.pyar.bz/blog/2014/01/22/github-flow/)
 
 
 ## 自己紹介を追加しましょう
